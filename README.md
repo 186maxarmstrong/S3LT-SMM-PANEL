@@ -23,7 +23,7 @@
 <br>
 
 <h3 align="left">WHATS THE PLAN?</h3>
-- First, a basic framework of this project will be created, a functional demonstration.
-- Second, it will be turned into a python terminal application, alongside becoming a pip package.
-- Third, it will meet the web via an api people can interact with and use its features, hosted by us.
+- First, a basic framework of this project will be created, a functional demonstration. \n
+- Second, it will be turned into a python terminal application, alongside becoming a pip package. \n
+- Third, it will meet the web via an api people can interact with and use its features, hosted by us.\n
 - Fourth, we will intergrate it into a web panel, ready for commercial use.
